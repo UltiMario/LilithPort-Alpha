@@ -7,6 +7,9 @@ LilithPort 1.08 updated this to include UPnP, a new way to connect without the n
 > [.NET Framework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)
 > [Visual C++](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
+LilithPort Alpha is a slightly modified, as it was easier to focus on the key parts that Pokemon: Close Combat needed than focusing on a 100% faithful port of the existing 1.08 code. Major changes of notes are security patches that prevent players from getting access to unobfuscated IP addresses, and the removal of the MTSP server link on Server Creation.
+
+
 # Games
  LilithPort Alpha is compatible with any Fighter Maker game, and is backwards compatible with older versions of LilithPort.
 
@@ -14,6 +17,7 @@ LilithPort 1.08 updated this to include UPnP, a new way to connect without the n
  - [Pokémon Type: Wild](http://oneweakness.com/pokemon-type-wild.html)
  - [Vanguard Princess](https://wiki.gbl.gg/w/Vanguard_Princess)
  - [WonderfulWorld](http://www55.atwiki.jp/ainefill_oinusama/pages/111.html)
+
 
 # Public Servers
 
@@ -31,6 +35,7 @@ MzQwNzIwNDUz:7501
 ### Japanese Public Server
 NDI3NzMwNjkwNw==:7500 
 
+
 # UPnP
 UPnP Support on an english client is the main feature of this LilithPort release. Here's how to navigate to it.
 
@@ -43,11 +48,13 @@ And that's it, you're ready to play.
 
 If you run into an error when enabling UPnP, odds are you have a network configuration that disallows UPnP. This is often true for extremely outdated networks, such as direct-connect via modem, or on very regulated networks like Schools.
 
+
 # Thanks
 
 Thanks to those who helped write the original LunaPort, MTSP, and LilithPorts for keeping this dinosaur engine line.
 
 Thanks to oldmud0 for their original translation and coding work, as without it, Alpha would've been impossible.
+
 
 # Additional Info
 
