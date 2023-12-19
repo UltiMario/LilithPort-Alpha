@@ -7,7 +7,7 @@ LilithPort 1.08 updated this to include UPnP, a new way to connect without the n
 > [.NET Framework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)
 > [Visual C++](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
-LilithPort Alpha is a slightly modified, as it was easier to focus on the key parts that Pokemon: Close Combat needed than focusing on a 100% faithful port of the existing 1.08 code. Major changes of notes are security patches that prevent players from getting access to unobfuscated IP addresses, and the removal of the MTSP server link on Server Creation.
+LilithPort Alpha is a slightly modified, as it was easier to focus on the key parts that Pokemon: Close Combat needed than focusing on a 100% faithful port of the existing 1.08 code. Major changes of note are security patches that prevent players from getting access to unobfuscated IP addresses, and the removal of the MTSP server link on Server Creation.
 
 
 # Games
