@@ -49,15 +49,17 @@ And that's it, you're ready to play.
 If you run into an error when enabling UPnP, odds are you have a network configuration that disallows UPnP. This is often true for extremely outdated networks, such as direct-connect via modem, or on very regulated networks like Schools.
 
 
+# Additional Info
+
+This version of LilithPort unfortunately receives false positives from antiviruses pretty commonly. If you get one, you'll have to add an exception for it.
+
+The old English LilithPort repository also has a lot of great info about LilithPort in general if you want more information. See it [Here!](https://github.com/oldmud0/LilithPort)
+
+Pokemon: Close Combat also has another page that's used as a netplay guide for LilithPort that you can find [Here.](https://wiki.gbl.gg/w/Pokemon:_Close_Combat/Netplay)
+
+
 # Thanks
 
 Thanks to those who helped write the original LunaPort, MTSP, and LilithPorts for keeping this dinosaur engine line.
 
 Thanks to oldmud0 for their original translation and coding work, as without it, Alpha would've been impossible.
-
-
-# Additional Info
-
-The old English LilithPort repository also has a lot of great info about LilithPort in general if you want more information. See it [Here!](https://github.com/oldmud0/LilithPort)
-
-Pokemon: Close Combat also has another page that's used as a netplay guide for LilithPort that you can find [Here.](https://wiki.gbl.gg/w/Pokemon:_Close_Combat/Netplay)
